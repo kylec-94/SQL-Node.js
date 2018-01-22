@@ -1,0 +1,23 @@
+{
+  "name": "sql-node",
+  "version": "1.0.0",
+  "description": "SQL and Node integrated app",
+  "main": "customerView.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylec-94/SQL-Node.js.git"
+  },
+  "author": "Kyle Crane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kylec-94/SQL-Node.js/issues"
+  },
+  "homepage": "https://github.com/kylec-94/SQL-Node.js#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0"
+  }
+}
