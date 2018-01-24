@@ -16,10 +16,10 @@ From the Customer View, the user will be prompted with a list of the items for s
 
 **Links to Screenshots of App:**
 
-![Screenshot of the initial prompt in console](/screenshots/initial-screen?raw=true "Initial Prompt")
+![Screenshot of the initial prompt in console](/screenshots/initial-screen.png?raw=true "Initial Prompt")
 
-![Screenshot of completed order with changes reflected in quantity](/screenshots/completed-order1?raw=true "First Completed Order")
+![Screenshot of completed order with changes reflected in quantity](/screenshots/completed-order1.png?raw=true "First Completed Order")
 
-![Screenshot of second completed order, confirming old order info was reflected in database](/screenshots/completed-order2?raw=true "Second Completed Order")
+![Screenshot of second completed order, confirming old order info was reflected in database](/screenshots/completed-order2.png?raw=true "Second Completed Order")
 
-![Incomplete order, system knows there's not enough stock to satisfy order, error message, customer orders again](/screenshots/incomplete-order?raw=true "Incomplete Order")
+![Incomplete order, system knows there's not enough stock to satisfy order, error message, customer orders again](/screenshots/incomplete-order.png?raw=true "Incomplete Order")
